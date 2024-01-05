@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "James Wieland"
+  avatar           : "assets/images/headshot.jpg"
+  bio              : "Welcome to my site!."
+  location         : "Austin, TX"
+  email            : "james.wieland2@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
