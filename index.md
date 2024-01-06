@@ -1,5 +1,5 @@
 ---
-title: "Landing page        "
+title: "JJW      "
 layout: single
 date: 2021-05-26T11:48:41-04:00
 header:
@@ -8,8 +8,7 @@ header:
 
 
   overlay_image: /assets/images/cover2.jpg
-excerpt: "Thoughts on Product Management, AI & Engineering"
-
+excerpt: "About Me'" 
 classes: wide
 
 ---
