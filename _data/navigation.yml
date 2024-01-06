@@ -1,9 +1,17 @@
 # main links
 main:
+  - title: "Home"
+    url: /
+#  - title: "Posts"
+ #   url: /posts/
+  - title: "Contact"
+    url: /contact/
+  - title: "Projects"
+    url: /portfolio/
   - title: "Resume"
-    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    src: "/Users/jamesjwieland/jjw/assets/files/jameswielandresume.pdf"
- # - title: "Projects"
+    url: /assets/docs/resume.pdf
+
+# - title: "Projects"
   #   url: #https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
