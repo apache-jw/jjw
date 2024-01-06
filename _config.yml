@@ -11,9 +11,9 @@ title_separator          : "-"
 subtitle                 : "Indiana University Master of Science in Information Systems 2024"
 name                     : "James Wieland"
 description              : "Hello! I'm a young adult entering the tech world having studied at Indiana the past five years."
-url                      : ##"https://wielandjames.com"
+url                      : "https://wielandjames.com"
 baseurl                  : ##
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "apache-jw/jjw.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -146,6 +146,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - index.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
