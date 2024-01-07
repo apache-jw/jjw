@@ -7,7 +7,7 @@ header:
   overlay_filter: "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2))"
 
 
-  overlay_image: /assets/images/cover2.jpg
+  overlay_image: /assets/images/syline.jpeg
 excerpt: "About Me" 
 classes: wide
 
