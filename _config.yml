@@ -100,9 +100,6 @@ author:
   location         : "Austin, TX"
   email            : "james.wieland2@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jajowiel@iu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/apache-jw"
