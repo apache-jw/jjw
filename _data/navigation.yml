@@ -3,16 +3,16 @@ main:
   - title: "Home"
     url: /
 #  - title: "Posts"
- #   url: /posts/
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /portfolio/
+#   url: /posts/
+  # - title: "About"
+  #   url: /about/
+  #- title: "Projects"
+  # url: /portfolio/
   - title: "Resume"
-    url: /assets/docs/JamesWielandResume.pdf
+    url: /assets/docs/resume.pdf
 
-# - title: "Projects"
-  #   url: #https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Projects"
+    url: /projects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
